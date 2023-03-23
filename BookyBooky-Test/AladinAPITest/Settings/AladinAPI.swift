@@ -8,5 +8,5 @@
 import Foundation
 
 struct AladinAPI {
-    static let TTBKey = "ttbrlarjsdn31757001"
+    static let TTBKey = "" // 삭제 
 }

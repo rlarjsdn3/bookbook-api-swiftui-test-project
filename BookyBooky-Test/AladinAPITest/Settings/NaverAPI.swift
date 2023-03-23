@@ -8,6 +8,6 @@
 import Foundation
 
 struct NaverAPI {
-    static let clientID = "HdNq8_jMDskUPyyMIZwM"
-    static let clientSecret = "MFHAGg3Zgy"
+    static let clientID = "" // 삭제
+    static let clientSecret = "" // 삭제
 }
